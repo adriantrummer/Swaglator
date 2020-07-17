@@ -1,4 +1,4 @@
-#swaglate any phrase you want
+#swaglate any phrase
 
 def swaglator(phrase):
     swaglation = ""
